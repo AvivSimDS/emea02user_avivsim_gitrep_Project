@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/AvivSimDS/Emea02user_avivsim_gitrep_Project
   gitUsername: AvivSimDS
   gitBranch: main
+services:
+- serviceName: project.emea02user_avivsim_gitrep_.integrations:NamesCloudParser
+  packages:
+  - name: Emea02user_avivsim_gitrep_Project
+    version: "1.0"
