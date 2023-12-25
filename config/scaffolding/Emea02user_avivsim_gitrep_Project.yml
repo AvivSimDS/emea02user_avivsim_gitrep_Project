@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Emea02user_avivsim_gitrep_Project
+  gitServerName: emea02user_avivsimds_public_github
+  gitUrl: https://github.com/AvivSimDS/Emea02user_avivsim_gitrep_Project
+  gitUsername: AvivSimDS
+  gitBranch: main
